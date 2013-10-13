@@ -1,0 +1,15 @@
+eb7545c6d912ecf6e50a0abee0b7d3d9 *DESCRIPTION
+b080babaf8624fd9e9fafb52093560a8 *LICENSE
+33981ec3f5a237077b2483ab404da7f0 *NAMESPACE
+5f8895e2d07826453b20ddd578d1de2f *R/init.R
+bac0114258d02dd84bc64e33ded8bf5e *R/render-webgl.R
+238cb52ad92437484cea95183dedcc91 *R/webgl-output.R
+53310125e2cb00f9a128e6efe1901d54 *README.md
+ce5abc03d93494c4cacd55c68ada12d5 *inst/examples/bivar/server.R
+57210d3928532a08d6876a76558b417f *inst/examples/bivar/ui.R
+96e5dcf707093abdb6982f87196a96fe *inst/examples/scatterplot/server.R
+140ad26c244a0cdb29215f15a4e0824c *inst/examples/scatterplot/ui.R
+feff7010f9f522214002265608f637ac *inst/www/CanvasMatrix.js
+6d5f57af07d49bdee01e0b38e46b2ac3 *inst/www/glbinding.js
+b7ac3afef3163866307fab608b460814 *man/renderWebGL.Rd
+60437b1d015315382a6cf9d548c8afe3 *man/webGLOutput.Rd
